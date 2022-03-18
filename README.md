@@ -33,3 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasulaarunteja&show_icons=true&locale=en" alt="kasulaarunteja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasulaarunteja&" alt="kasulaarunteja" /></p>
+
+<a href="https://github.com/kasulaarunteja/github-readme-activity-graph"><img alt="Kasula Arun Teja Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kasulaarunteja&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
