@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Epic games](https://github.com/salakhas/Epic-Games)
 
-- 🌱 I’m currently learning **MREN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **JavaScript**
 
