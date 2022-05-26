@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@kasulaarun" target="blank"><img src="https://img.shields.io/twitter/follow/@kasulaarun?logo=twitter&style=for-the-badge" alt="@kasulaarun" /></a> </p>
 
-- 🔭 I’m currently working on [Epic games](https://github.com/salakhas/Epic-Games)
+<!-- - 🔭 I’m currently working on  -->
 
 - 🌱 I’m currently learning **MERN**
 
