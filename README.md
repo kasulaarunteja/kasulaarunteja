@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kasulaarunteja@gmail.com**
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="40"> Connect with me
 
 <p align="left">
 <a href="https://twitter.com/@kasulaarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kasulaarun" height="30" width="40" /></a>
